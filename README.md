@@ -1,4 +1,4 @@
-<b># This farmer Guidence Machine learning project..🌹🌹 </b><br>
+# This farmer Guidence Machine learning project..🌹🌹 <br>
 <p>in this project we created a model with 99.77% accuracy<br>
 that are working perfectly all process and method i has done clearly that<br>
 anyone easily can understand my instructions<br>
