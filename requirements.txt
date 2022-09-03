@@ -1,5 +1,4 @@
 numpy
-pickle
 warnings
 beautifulsoup4==4.9.1
 bs4==0.0.1
