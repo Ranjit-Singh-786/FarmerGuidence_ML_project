@@ -33,6 +33,7 @@ fonttools==4.34.4
 gast==0.4.0
 google-auth==2.11.0
 google-auth-oauthlib==0.4.6
+gunicorn
 google-pasta==0.2.0
 grpcio==1.47.0
 h11==0.13.0
@@ -97,7 +98,6 @@ pyrsistent==0.18.1
 PySocks==1.7.1
 python-dateutil==2.8.2
 pytz==2022.1
-pywin32
 pywinpty==2.0.6
 pyzmq==23.2.0
 qtconsole==5.3.1
