@@ -1,5 +1,5 @@
 flask
-pickle==4.0
+
 numpy
-warnings
+
 python
