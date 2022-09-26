@@ -7,17 +7,26 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>This is your suitable crop will be grow perfectly.</h3>
-    <p><b>...........   {{prediction_text}}     ..........</b></p>
+    <h3 align="center"id='para'>This is your suitable crop will be grow perfectly .</h3>
+    <P align="center"id='para'> according to your soil and weather condition.</P>
+    <br>
+    <h2 align="center"id='para'><b id ='para'>...........     {{prediction_text}}           ..........</b></h2>
 
     <style>
         
-        body{background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(static/butterfly.jpg);
+        body{
+            background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(static/butterfly.jpg);
         height:100vh;
         /* background-color: rgb(215, 189, 240); */
         background-size:cover;
-        background-attachment: fixed;}
-                     
+        background-attachment: fixed;
+    }
+    #para{
+        color:aliceblue;
+        font-size: 85;
+        text-shadow: 5px;
+    }
+               
     </style>
 </body>
 
